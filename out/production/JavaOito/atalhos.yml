@@ -1,0 +1,16 @@
+alt + 1: acessa a aba project
+alt + insert: new file + gerar codigo
+alt + shift + F10: executar #nao funciona
+alt + enter: sugestao
+alt + shift + insert: modo coluna
+ctrl + y: remove linha
+
+autocomplete:
+  psvm: cria o metodo main
+  sout: cria System.out.println
+  soutv: cria System.out.println mais foda
+
+comandos: #requer java 9
+  jshell no terminal: shell do java
+  /edit no jshel: abre o editor
+
